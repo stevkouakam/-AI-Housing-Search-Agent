@@ -1,4 +1,4 @@
-# NestIQ — AI-Powered Rental Search Agent for Quebec
+# NestIQ — AI-Housing Search Agent
 
 > Your personal real estate scout — an AI agent that crawls every Quebec rental platform, analyzes thousands of listings in seconds, and delivers only the ones worth your time.
 
